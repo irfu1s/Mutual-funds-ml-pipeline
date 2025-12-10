@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Mutual Funds ML Pipeline  
 An end-to-end machine learning system using AMFI NAV data for SIP simulation, feature engineering, model training, SHAP explainability, and fund recommendation.
 
