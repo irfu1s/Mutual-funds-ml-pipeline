@@ -172,6 +172,6 @@ Examples include:
 ---
 
 ## 👤 Author  
-Irfan — Data Science & Machine Learning  
+K Mohammad Irfan Hussain — Data Science & Machine Learning  
 Building practical AI systems from scratch with real financial data
 =======
